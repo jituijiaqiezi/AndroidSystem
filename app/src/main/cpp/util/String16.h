@@ -1,0 +1,8 @@
+//
+// Created by LCP on 2018/8/22.
+//
+
+#ifndef ANDROIDSYSTEM_STRING16_H
+#define ANDROIDSYSTEM_STRING16_H
+
+#endif //ANDROIDSYSTEM_STRING16_H
