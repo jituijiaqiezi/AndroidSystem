@@ -12,7 +12,7 @@ extern "C" {
 typedef uint32_t char32_t;
 typedef uint16_t char16_t;
 
-int strcmp16(const char16_t *, const char16_t);
+int strcmp16(const char16_t *, const char16_t*);
 int strncmp16(const char16_t *s1, const char16_t *s2, size_t n);
 size_t strlen16(const char16_t *);
 size_t strnlen16(const char16_t *, size_t);
