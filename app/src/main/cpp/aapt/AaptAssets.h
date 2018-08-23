@@ -1,6 +1,4 @@
-//
-// Created by android.
-//
+
 
 #ifndef ANDROIDSYSTEM_AAPTASSETS_H
 #define ANDROIDSYSTEM_AAPTASSETS_H
