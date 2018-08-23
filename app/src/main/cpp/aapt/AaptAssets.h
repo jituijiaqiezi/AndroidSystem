@@ -1,5 +1,5 @@
 //
-// Created by 林晨鹏 on 2018/8/23.
+// Created by android.
 //
 
 #ifndef ANDROIDSYSTEM_AAPTASSETS_H
